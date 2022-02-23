@@ -1,0 +1,10 @@
+The struture of the Recuring Neural Network is based on previously Publishe paperwork-- https://arxiv.org/pdf/1503.08895.pdf
+Go through the entire pdf to understand the working behind the network 
+The model is trainded on a set of "Stories" and "Questions" which have a single word answer
+The model is able to give out a yes or no answer for new "Stories" and "Questions"
+
+
+You can load the model if you want to check it out yourself 
+
+
+NOTE# All the data used to train the model is included 
