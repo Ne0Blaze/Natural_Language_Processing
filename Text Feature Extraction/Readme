@@ -3,5 +3,7 @@ Using a labled data set and Supervised learnig method we can train a model to pr
 I have used a train test split to train and test out the model but the model is able to predict on new messages as well
 
 
+The same can be done over different set of labled data -Movie Reviews-
+
 
 NOTE# The data used to train the model is also included 
